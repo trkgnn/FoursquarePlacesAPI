@@ -10,3 +10,5 @@ FSQ API lets you get 50 places in each request call. By using this code you will
 ## Documentation and Parameters for FSQ API
 
 [Documentation](https://location.foursquare.com/developer/reference/place-search) 
+
+![Logo](https://i.pinimg.com/564x/4b/f9/7f/4bf97fa899018ec2660582096a2f8245.jpg)
